@@ -1,2 +1,2 @@
 # hyperblog
-Blog de practiva platzi
+Blog de practica platzi
